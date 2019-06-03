@@ -27,6 +27,30 @@
   line-height: 25px;
   border-radius: 18px;
 }
+.container {
+overflow: hidden;
+padding :50x 220px;
+margin :50px;
+width: 440px;
+height:250px;
+font-size: 20px;
+ margin-right: 0px;
+margin -left : 200px
+background-color : black;
+font-family: Segoe;
+font-color:white;
+float: right;
+
+color: rgb(255,255,255);
+}
+
+.form f {
+
+border-radius: 18px;
+
+
+}
+
 
 /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
 .header a.logo {
@@ -39,6 +63,9 @@
   background-color: #ddd;
   color: black;
 }
+
+
+
 
 /* Style the active/current link*/
 .header a.active {
